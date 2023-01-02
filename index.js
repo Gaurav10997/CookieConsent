@@ -32,7 +32,7 @@ consentForm.addEventListener('submit', function(e){
     setTimeout(function(){
         document.getElementById('upload-text').innerText = `
         Making the sale...`
-    }, 1500)
+    }, 1600)
     
     
     setTimeout(function(){
